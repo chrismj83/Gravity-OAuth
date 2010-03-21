@@ -25,9 +25,9 @@ class GravityOAuth
 		/*
 		 * Set your client_id, client_secret and callback_url
 		 */
-		$clientId     = 'dc770f67beaf755ea5c5e1bce8b536720b828f56',
-		$clientSecret = 'c3c0226581862c8a834deaec873bed093bf7da80',
-		$callbackURL  = 'http://elbertf.com/gravity/oauth.php',
+		$clientId     = '',
+		$clientSecret = '',
+		$callbackURL  = '',
 
 		$wrapVerificationCode    = '',
 		$wrapVerificationCodeTTL = ''
